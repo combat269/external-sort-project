@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+
+# Project-specific temporary and output directories
+intermediate_runs/
+student_outputs/
+temp_files/
+temp_runs/
+workspace/
+
+# Ignore all binary files to prevent uploading massive datasets
+*.bin
+
+# macOS system files
+.DS_Store
